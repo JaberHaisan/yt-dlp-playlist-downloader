@@ -1,7 +1,6 @@
 My own custom script for downloading youtube playlists.
 
-For playlist items, press enter if you want to download the whole playlist. Otherwise, enter
-the videos you want downloaded like list slicing in python (for e.g 1:20:2 downloads every
+Enter the videos you want downloaded like list slicing in python (for e.g 1:20:2 downloads every
 2nd video up to the 20th video, just : downloads every video).
 
 Current options:
