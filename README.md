@@ -9,4 +9,4 @@ Current options:
 3) Converts files to mp4 if the video is in a different format.
 4) Does not stop downloading videos due to errors (for e.g. a common error is when
 youtube removes a video from their platform yet doesn't remove it from the playlist).
-5) Keeps a download archive in the defined directory.
+5) Keeps a download archive in the defined directory which allows the script to skip already downloaded videos.
